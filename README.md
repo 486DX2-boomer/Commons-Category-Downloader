@@ -12,7 +12,7 @@ It won't work on anything else, and it does not accept multiple arguments.
 **This script always downloads to the current working directory.**
 
 ### Dependencies
-You'll need [BeautifulSoup4](https://pypi.org/project/beautifulsoup4/) and [html5lib](https://pypi.org/project/html5lib/)
+You'll need [BeautifulSoup4](https://pypi.org/project/beautifulsoup4/) and [html5lib](https://pypi.org/project/html5lib/).
 
 ### To Do
 
